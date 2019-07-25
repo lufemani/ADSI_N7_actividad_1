@@ -18,5 +18,4 @@
 
     Luis Fernando Martinez Niño
     Oscar Javier Osorio Salazar
-    John Edison Delgado Santiago
-    Jose Alejandro Niño Beltran
+   
