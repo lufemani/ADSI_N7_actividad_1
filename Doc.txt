@@ -1,0 +1,25 @@
+##Ficha
+     Nombre Ficha
+     Numero Ficha
+ 
+##Instructor
+     Nombres
+     Apellidos	
+
+
+##Aprendiz
+    Nombres
+    Apellidos
+    Numero Documento
+
+##Jornada
+  * Tipo Jornada
+  * 
+  
+
+##FormularioRegistros
+  
+##Aula 
+
+ * Num_salon
+ * Piso  
